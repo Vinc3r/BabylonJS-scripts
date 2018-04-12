@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+    <title>Default .gltf loading scene</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/styles.css" media="screen"/>
+    <script src="js/babylon.js" ></script>
+</head>
+
+<body>
+    <canvas id="canvas"></canvas>
+    <script type="text/javascript">
+        var canvas = document.getElementById("canvas");
+        var engine = new BABYLON.Engine(canvas, true);
+        
+        var createScene = function () {
+
+            // scene parameters
+            var scene = new BABYLON.Scene(engine);
+            scene.clearColor = new BABYLON.Color3.White;
+            var hdrTexture = BABYLON.CubeTexture.CreateFromPrefilteredData("assets/neutral_env_EnvHDR.dds", scene);
+            hdrTexture.name = "envTex";
+            hdrTexture.gammaSpace = false;
+            scene.createDefaultSkybox(hdrTexture, true, 1000, 0);
+            
+            // Add a camera to the scene and attach it to the canvas
+            var universalCamera = new BABYLON.UniversalCamera("universalCamera", new BABYLON.Vector3(0,1,0), scene);
+            universalCamera.speed = 0.1;
+            universalCamera.fov = 1.2;
+            universalCamera.minZ = 0.01;
+            universalCamera.position = new BABYLON.Vector3(-1.42, 2.25, 2.12);
+            universalCamera.rotation = new BABYLON.Vector3(0.715, -3.75, 0);
+            scene.activeCamera = universalCamera;
+            scene.activeCamera.attachControl(canvas);
+            
+            var gltfLoaded = function(){
+                
+                // why not using glow?
+                new BABYLON.GlowLayer("glow", scene, {
+                    mainTextureFixedSize: 256,
+                    blurKernelSize: 32
+                });            
+            };
+            
+            var gltfLoader = BABYLON.SceneLoader.Append(
+                "assets/",
+                "default-scene.gltf",
+                scene,
+                gltfLoaded
+            );
+            
+            return scene;
+        };
+        
+        var scene = createScene();
+        
+        engine.runRenderLoop(function () { // Register a render loop to repeatedly render the scene
+            scene.render();
+        });
+                
+        window.addEventListener("resize", function () { // Watch for browser/canvas resize events
+            engine.resize();
+        });
+    </script>
+</body>
+</html>

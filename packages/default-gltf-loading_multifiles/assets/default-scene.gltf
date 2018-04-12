@@ -1,0 +1,233 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0, 
+            "componentType" : 5123, 
+            "count" : 11808, 
+            "max" : [
+                2112
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 1, 
+            "componentType" : 5126, 
+            "count" : 2113, 
+            "max" : [
+                1.3369140625, 
+                0.9501953125, 
+                0.82568359375
+            ], 
+            "min" : [
+                -1.3369140625, 
+                -0.974609375, 
+                -0.80078125
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 2, 
+            "componentType" : 5126, 
+            "count" : 2113, 
+            "max" : [
+                0.9973449110984802, 
+                0.99993896484375, 
+                0.999969482421875
+            ], 
+            "min" : [
+                -0.9973449110984802, 
+                -0.9874569177627563, 
+                -0.999908447265625
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 3, 
+            "componentType" : 5126, 
+            "count" : 2113, 
+            "max" : [
+                1.0, 
+                0.9973968863487244, 
+                0.9861700534820557, 
+                1.0
+            ], 
+            "min" : [
+                -0.9988449811935425, 
+                -0.9989823698997498, 
+                -0.9850875735282898, 
+                1.0
+            ], 
+            "type" : "VEC4"
+        }, 
+        {
+            "bufferView" : 4, 
+            "componentType" : 5126, 
+            "count" : 2113, 
+            "max" : [
+                4.466404438018799, 
+                4.1287524700164795
+            ], 
+            "min" : [
+                -3.4632272720336914, 
+                -3.0343618392944336
+            ], 
+            "type" : "VEC2"
+        }, 
+        {
+            "bufferView" : 5, 
+            "componentType" : 5126, 
+            "count" : 2113, 
+            "max" : [
+                0.9971904754638672, 
+                0.9948898749426007
+            ], 
+            "min" : [
+                0.0059865000657737255, 
+                0.09950059652328491
+            ], 
+            "type" : "VEC2"
+        }
+    ], 
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter", 
+        "version" : "2.0"
+    }, 
+    "bufferViews" : [
+        {
+            "buffer" : 0, 
+            "byteLength" : 23616, 
+            "byteOffset" : 0, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 25356, 
+            "byteOffset" : 23616, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 25356, 
+            "byteOffset" : 48972, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 33808, 
+            "byteOffset" : 74328, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 16904, 
+            "byteOffset" : 108136, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 16904, 
+            "byteOffset" : 125040, 
+            "target" : 34962
+        }
+    ], 
+    "buffers" : [
+        {
+            "byteLength" : 141944, 
+            "uri" : "default-scene.bin"
+        }
+    ], 
+    "images" : [
+        {
+            "uri" : "colorgrid.png"
+        }, 
+        {
+            "uri" : "suzanne_ao.png"
+        }, 
+        {
+            "uri" : "grid-nm.png"
+        }
+    ], 
+    "materials" : [
+        {
+            "name" : "Suzanne", 
+            "normalTexture" : {
+                "index" : 2
+            }, 
+            "occlusionTexture" : {
+                "index" : 1, 
+                "texCoord" : 1
+            }, 
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                }, 
+                "metallicFactor" : 0.10000000149011612, 
+                "roughnessFactor" : 0.20000000298023224
+            }
+        }
+    ], 
+    "meshes" : [
+        {
+            "name" : "Suzanne", 
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2, 
+                        "POSITION" : 1, 
+                        "TANGENT" : 3, 
+                        "TEXCOORD_0" : 4, 
+                        "TEXCOORD_1" : 5
+                    }, 
+                    "indices" : 0, 
+                    "material" : 0
+                }
+            ]
+        }
+    ], 
+    "nodes" : [
+        {
+            "mesh" : 0, 
+            "name" : "Suzanne", 
+            "rotation" : [
+                -0.30810919404029846, 
+                -1.7389598518733145e-24, 
+                6.841398426444788e-17, 
+                0.95135098695755
+            ], 
+            "translation" : [
+                0.0, 
+                0.5151899456977844, 
+                -0.0
+            ]
+        }
+    ], 
+    "samplers" : [
+        {}
+    ], 
+    "scene" : 0, 
+    "scenes" : [
+        {
+            "name" : "Scene", 
+            "nodes" : [
+                0
+            ]
+        }
+    ], 
+    "textures" : [
+        {
+            "sampler" : 0, 
+            "source" : 0
+        }, 
+        {
+            "sampler" : 0, 
+            "source" : 1
+        }, 
+        {
+            "sampler" : 0, 
+            "source" : 2
+        }
+    ]
+}
