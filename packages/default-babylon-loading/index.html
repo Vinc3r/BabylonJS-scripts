@@ -3,8 +3,24 @@
 <head>
     <title>Default .babylon loading scene</title>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="css/styles.css" media="screen"/>
-    <script src="js/babylon.js" ></script>
+    <script src="babylon.js" ></script>
+    <style>
+        html, body {
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: OpenSans, tahoma, arial, sans-serif;
+            color:white;
+        }
+
+        #canvas {
+            width: 100%;
+            height: 100%;
+            touch-action: none;
+        }
+    </style>
 </head>
 
 <body>
@@ -16,7 +32,7 @@
         BABYLON.SceneLoader.Load("assets/", "default-scene.babylon", engine, function (scene) {
 		
 			//camera parameters
-            //we assume camera is include in .babylon file
+            //we assume camera is included in .babylon file
             scene.activeCamera.attachControl(canvas);
 			scene.activeCamera.fov = 1.2;
 			scene.activeCamera.speed = 0.2;
