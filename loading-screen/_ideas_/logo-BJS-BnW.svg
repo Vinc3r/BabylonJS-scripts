@@ -1,0 +1,9 @@
+<svg id="bjsLogo" width="160" height="160">
+    <polygon id="bjsLogoDarkBlue01" class="bjsLogoParts" points="173.8 149.2 89.2 181 86.2 111 105.7 105.5 105.7 157.6 159.8 139.1 165.5 89.5 182.4 85.1" transform="translate(-28.204035 -48.11231)"/>
+    <polygon id="bjsLogoRed01" class="bjsLogoParts" points="156.8 89.7 152.4 133.2 111.7 146.7 111.5 98.2 90.2 82.3 128.3 73.8" transform="translate(-28.204035 -48.11231)"/>
+    <polygon id="bjsLogoLightBlue01" class="bjsLogoParts" points="172.8 156 170.5 170.4 86.8 204.3 66.5 178.9 65.9 165.8 85.5 188.8" transform="translate(-28.204035 -48.11231)"/>
+    <polygon id="bjsLogoDarkBlue02" class="bjsLogoParts" points="41.8 118.3 45.9 151.7 60 170.1 59 148.2 82.7 176.4 80.1 110.4 59.8 92.5 63.1 141.5" transform="translate(-28.204035 -48.11231)"/>
+    <polygon id="bjsLogoLightBlue02" class="bjsLogoParts" points="103.6 99.8 83.6 105.4 63.1 87.3 81.5 83.4" transform="translate(-28.204035 -48.11231)"/>
+    <polygon id="bjsLogoLightBlue03" class="bjsLogoParts" points="161.5 84.3 179.1 79.7 121.7 51 62.9 62.2 82.8 76.9 128.9 67 " transform="translate(-28.204035 -48.11231)"/>
+    <polygon id="bjsLogoGreen01" class="bjsLogoParts" points="56.3 125.4 56.2 124.9 52.6 83.6 57.4 82.4 74.9 78.6 55.1 64 34.9 67.3 40.3 107.4" transform="translate(-28.204035 -48.11231)"/>
+</svg>
