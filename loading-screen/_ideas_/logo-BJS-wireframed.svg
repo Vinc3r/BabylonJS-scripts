@@ -1,56 +1,55 @@
-
 <svg height="160" width="160" id="bjsLogo">
-    <path id="bjsLogoW1" d="m 93.495965,2.88769 57.399995,28.7 m 0,0 -17.6,4.6 m 0,0 -32.59999,-17.3 m -46.100005,9.9 -19.9,-14.7 m 58.8,-11.2 -58.8,11.2 66.000005,4.8 z m -38.9,25.9 46.100005,-9.9 50.19999,12.7" style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1" />
-    <path id="bjsLogoW2" d="m 61.995965,34.18769 21.3,15.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW3" d="m 100.09597,25.68769 -38.100005,8.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW4" d="m 100.09597,25.68769 28.49999,15.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW5" d="m 128.59596,41.58769 -45.299995,8.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW6" d="m 83.295965,50.08769 16.800005,-24.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW7" d="m 83.295965,50.08769 0.2,48.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW8" d="m 83.495965,98.58769 40.700005,-13.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW9" d="m 128.59596,41.58769 -4.39999,43.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW10" d="m 83.295965,50.08769 40.900005,35" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW11" d="m 137.29596,41.38769 16.9,-4.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW12" d="m 154.19596,36.98769 -8.6,64.1" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW13" d="m 131.59596,90.98769 -54.099995,18.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW14" d="m 145.59596,101.08769 -14,-10.1" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW15" d="m 137.29596,41.38769 -5.7,49.6" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW16" d="m 77.495965,109.48769 -16.5,23.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW17" d="m 57.995965,62.88769 19.5,46.6" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW18" d="m 131.59596,90.98769 22.6,-54" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW19" d="m 57.995965,62.88769 19.5,-5.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW20" d="m 77.495965,109.48769 68.099995,-8.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW21" d="m 60.995965,132.88769 84.599995,-31.8" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW22" d="m 57.995965,62.88769 3,70" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW23" d="m 77.495965,57.38769 0,52.1" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW24" d="m 34.895965,39.18769 18.4,-3.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW25" d="m 55.395965,57.28769 -2.1,-22" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW26" d="m 34.895965,39.18769 20.5,18.1" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW27" d="m 55.395965,57.28769 20,-5.6" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW28" d="m 75.395965,51.68769 -22.1,-16.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW29" d="m 24.395965,35.48769 -17.7,-16.3 20.2,-3.3" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW30" d="m 26.895965,15.88769 19.8,14.6" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW31" d="m 26.895965,15.88769 -2.5,19.6 22.3,-5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW32" d="m 6.695965,19.18769 5.4,40.1 12.3,-23.8" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW33" d="m 24.395965,35.48769 3.6,41.3" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW34" d="m 27.995965,76.78769 -15.9,-17.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW35" d="m 31.595965,44.38769 3.3,49" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW36" d="m 51.895965,62.28769 2.6,66" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW37" d="m 54.495965,128.28769 -19.6,-34.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW38" d="m 34.895965,93.38769 -4.1,6.7" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW39" d="m 30.795965,100.08769 -17.2,-29.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW40" d="m 13.595965,70.18769 21.3,23.2" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW41" d="m 31.595965,44.38769 20.3,17.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW42" d="m 54.495965,128.28769 -23.7,-28.2" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW43" d="m 17.695965,103.58769 13.1,-3.5" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW44" d="m 17.695965,103.58769 14.1,18.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW45" d="m 31.795965,121.98769 -1,-21.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW46" d="m 13.595965,70.18769 4.1,33.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW47" d="m 34.895965,93.38769 17,-31.1" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW48" d="m 37.695965,117.68769 19.6,23 -19,-9.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW49" d="m 38.295965,130.78769 -0.6,-13.1" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW50" d="m 144.59596,107.88769 -2.3,14.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW51" d="m 57.295965,140.68769 87.299995,-32.8" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW52" d="m 38.295965,130.78769 20.3,25.4" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
-    <path id="bjsLogoW53" d="m 58.595965,156.18769 -1.3,-15.5 84.999995,-18.4 -83.699995,33.9" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
+    <path id="bjsLogoW1" d="m 93.495965,2.88769 57.399995,28.7 m 0,0 -17.6,4.6 m 0,0 -32.59999,-17.3 m -46.100005,9.9 -19.9,-14.7 m 58.8,-11.2 -58.8,11.2 66.000005,4.8 z m -38.9,25.9 46.100005,-9.9 50.19999,12.7" class="bjsLogoWireframe" />
+    <path id="bjsLogoW2" d="m 61.995965,34.18769 21.3,15.9" class="bjsLogoWireframe" />
+    <path id="bjsLogoW3" d="m 100.09597,25.68769 -38.100005,8.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW4" d="m 100.09597,25.68769 28.49999,15.9" class="bjsLogoWireframe" />
+    <path id="bjsLogoW5" d="m 128.59596,41.58769 -45.299995,8.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW6" d="m 83.295965,50.08769 16.800005,-24.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW7" d="m 83.295965,50.08769 0.2,48.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW8" d="m 83.495965,98.58769 40.700005,-13.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW9" d="m 128.59596,41.58769 -4.39999,43.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW10" d="m 83.295965,50.08769 40.900005,35" class="bjsLogoWireframe" />
+    <path id="bjsLogoW11" d="m 137.29596,41.38769 16.9,-4.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW12" d="m 154.19596,36.98769 -8.6,64.1" class="bjsLogoWireframe" />
+    <path id="bjsLogoW13" d="m 131.59596,90.98769 -54.099995,18.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW14" d="m 145.59596,101.08769 -14,-10.1" class="bjsLogoWireframe" />
+    <path id="bjsLogoW15" d="m 137.29596,41.38769 -5.7,49.6" class="bjsLogoWireframe" />
+    <path id="bjsLogoW16" d="m 77.495965,109.48769 -16.5,23.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW17" d="m 57.995965,62.88769 19.5,46.6" class="bjsLogoWireframe" />
+    <path id="bjsLogoW18" d="m 131.59596,90.98769 22.6,-54" class="bjsLogoWireframe" />
+    <path id="bjsLogoW19" d="m 57.995965,62.88769 19.5,-5.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW20" d="m 77.495965,109.48769 68.099995,-8.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW21" d="m 60.995965,132.88769 84.599995,-31.8" class="bjsLogoWireframe" />
+    <path id="bjsLogoW22" d="m 57.995965,62.88769 3,70" class="bjsLogoWireframe" />
+    <path id="bjsLogoW23" d="m 77.495965,57.38769 0,52.1" class="bjsLogoWireframe" />
+    <path id="bjsLogoW24" d="m 34.895965,39.18769 18.4,-3.9" class="bjsLogoWireframe" />
+    <path id="bjsLogoW25" d="m 55.395965,57.28769 -2.1,-22" class="bjsLogoWireframe" />
+    <path id="bjsLogoW26" d="m 34.895965,39.18769 20.5,18.1" class="bjsLogoWireframe" />
+    <path id="bjsLogoW27" d="m 55.395965,57.28769 20,-5.6" class="bjsLogoWireframe" />
+    <path id="bjsLogoW28" d="m 75.395965,51.68769 -22.1,-16.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW29" d="m 24.395965,35.48769 -17.7,-16.3 20.2,-3.3" class="bjsLogoWireframe" />
+    <path id="bjsLogoW30" d="m 26.895965,15.88769 19.8,14.6" class="bjsLogoWireframe" />
+    <path id="bjsLogoW31" d="m 26.895965,15.88769 -2.5,19.6 22.3,-5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW32" d="m 6.695965,19.18769 5.4,40.1 12.3,-23.8" class="bjsLogoWireframe" />
+    <path id="bjsLogoW33" d="m 24.395965,35.48769 3.6,41.3" class="bjsLogoWireframe" />
+    <path id="bjsLogoW34" d="m 27.995965,76.78769 -15.9,-17.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW35" d="m 31.595965,44.38769 3.3,49" class="bjsLogoWireframe" />
+    <path id="bjsLogoW36" d="m 51.895965,62.28769 2.6,66" class="bjsLogoWireframe" />
+    <path id="bjsLogoW37" d="m 54.495965,128.28769 -19.6,-34.9" class="bjsLogoWireframe" />
+    <path id="bjsLogoW38" d="m 34.895965,93.38769 -4.1,6.7" class="bjsLogoWireframe" />
+    <path id="bjsLogoW39" d="m 30.795965,100.08769 -17.2,-29.9" class="bjsLogoWireframe" />
+    <path id="bjsLogoW40" d="m 13.595965,70.18769 21.3,23.2" class="bjsLogoWireframe" />
+    <path id="bjsLogoW41" d="m 31.595965,44.38769 20.3,17.9" class="bjsLogoWireframe" />
+    <path id="bjsLogoW42" d="m 54.495965,128.28769 -23.7,-28.2" class="bjsLogoWireframe" />
+    <path id="bjsLogoW43" d="m 17.695965,103.58769 13.1,-3.5" class="bjsLogoWireframe" />
+    <path id="bjsLogoW44" d="m 17.695965,103.58769 14.1,18.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW45" d="m 31.795965,121.98769 -1,-21.9" class="bjsLogoWireframe" />
+    <path id="bjsLogoW46" d="m 13.595965,70.18769 4.1,33.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW47" d="m 34.895965,93.38769 17,-31.1" class="bjsLogoWireframe" />
+    <path id="bjsLogoW48" d="m 37.695965,117.68769 19.6,23 -19,-9.9" class="bjsLogoWireframe" />
+    <path id="bjsLogoW49" d="m 38.295965,130.78769 -0.6,-13.1" class="bjsLogoWireframe" />
+    <path id="bjsLogoW50" d="m 144.59596,107.88769 -2.3,14.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW51" d="m 57.295965,140.68769 87.299995,-32.8" class="bjsLogoWireframe" />
+    <path id="bjsLogoW52" d="m 38.295965,130.78769 20.3,25.4" class="bjsLogoWireframe" />
+    <path id="bjsLogoW53" d="m 58.595965,156.18769 -1.3,-15.5 84.999995,-18.4 -83.699995,33.9" class="bjsLogoWireframe" />
 </svg>
