@@ -1,55 +1,76 @@
-<svg height="160" width="160" id="bjsLogo">
-    <path id="bjsLogoW1" d="m 93.495965,2.88769 57.399995,28.7 m 0,0 -17.6,4.6 m 0,0 -32.59999,-17.3 m -46.100005,9.9 -19.9,-14.7 m 58.8,-11.2 -58.8,11.2 66.000005,4.8 z m -38.9,25.9 46.100005,-9.9 50.19999,12.7" class="bjsLogoWireframe" />
-    <path id="bjsLogoW2" d="m 61.995965,34.18769 21.3,15.9" class="bjsLogoWireframe" />
-    <path id="bjsLogoW3" d="m 100.09597,25.68769 -38.100005,8.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW4" d="m 100.09597,25.68769 28.49999,15.9" class="bjsLogoWireframe" />
-    <path id="bjsLogoW5" d="m 128.59596,41.58769 -45.299995,8.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW6" d="m 83.295965,50.08769 16.800005,-24.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW7" d="m 83.295965,50.08769 0.2,48.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW8" d="m 83.495965,98.58769 40.700005,-13.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW9" d="m 128.59596,41.58769 -4.39999,43.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW10" d="m 83.295965,50.08769 40.900005,35" class="bjsLogoWireframe" />
-    <path id="bjsLogoW11" d="m 137.29596,41.38769 16.9,-4.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW12" d="m 154.19596,36.98769 -8.6,64.1" class="bjsLogoWireframe" />
-    <path id="bjsLogoW13" d="m 131.59596,90.98769 -54.099995,18.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW14" d="m 145.59596,101.08769 -14,-10.1" class="bjsLogoWireframe" />
-    <path id="bjsLogoW15" d="m 137.29596,41.38769 -5.7,49.6" class="bjsLogoWireframe" />
-    <path id="bjsLogoW16" d="m 77.495965,109.48769 -16.5,23.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW17" d="m 57.995965,62.88769 19.5,46.6" class="bjsLogoWireframe" />
-    <path id="bjsLogoW18" d="m 131.59596,90.98769 22.6,-54" class="bjsLogoWireframe" />
-    <path id="bjsLogoW19" d="m 57.995965,62.88769 19.5,-5.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW20" d="m 77.495965,109.48769 68.099995,-8.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW21" d="m 60.995965,132.88769 84.599995,-31.8" class="bjsLogoWireframe" />
-    <path id="bjsLogoW22" d="m 57.995965,62.88769 3,70" class="bjsLogoWireframe" />
-    <path id="bjsLogoW23" d="m 77.495965,57.38769 0,52.1" class="bjsLogoWireframe" />
-    <path id="bjsLogoW24" d="m 34.895965,39.18769 18.4,-3.9" class="bjsLogoWireframe" />
-    <path id="bjsLogoW25" d="m 55.395965,57.28769 -2.1,-22" class="bjsLogoWireframe" />
-    <path id="bjsLogoW26" d="m 34.895965,39.18769 20.5,18.1" class="bjsLogoWireframe" />
-    <path id="bjsLogoW27" d="m 55.395965,57.28769 20,-5.6" class="bjsLogoWireframe" />
-    <path id="bjsLogoW28" d="m 75.395965,51.68769 -22.1,-16.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW29" d="m 24.395965,35.48769 -17.7,-16.3 20.2,-3.3" class="bjsLogoWireframe" />
-    <path id="bjsLogoW30" d="m 26.895965,15.88769 19.8,14.6" class="bjsLogoWireframe" />
-    <path id="bjsLogoW31" d="m 26.895965,15.88769 -2.5,19.6 22.3,-5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW32" d="m 6.695965,19.18769 5.4,40.1 12.3,-23.8" class="bjsLogoWireframe" />
-    <path id="bjsLogoW33" d="m 24.395965,35.48769 3.6,41.3" class="bjsLogoWireframe" />
-    <path id="bjsLogoW34" d="m 27.995965,76.78769 -15.9,-17.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW35" d="m 31.595965,44.38769 3.3,49" class="bjsLogoWireframe" />
-    <path id="bjsLogoW36" d="m 51.895965,62.28769 2.6,66" class="bjsLogoWireframe" />
-    <path id="bjsLogoW37" d="m 54.495965,128.28769 -19.6,-34.9" class="bjsLogoWireframe" />
-    <path id="bjsLogoW38" d="m 34.895965,93.38769 -4.1,6.7" class="bjsLogoWireframe" />
-    <path id="bjsLogoW39" d="m 30.795965,100.08769 -17.2,-29.9" class="bjsLogoWireframe" />
-    <path id="bjsLogoW40" d="m 13.595965,70.18769 21.3,23.2" class="bjsLogoWireframe" />
-    <path id="bjsLogoW41" d="m 31.595965,44.38769 20.3,17.9" class="bjsLogoWireframe" />
-    <path id="bjsLogoW42" d="m 54.495965,128.28769 -23.7,-28.2" class="bjsLogoWireframe" />
-    <path id="bjsLogoW43" d="m 17.695965,103.58769 13.1,-3.5" class="bjsLogoWireframe" />
-    <path id="bjsLogoW44" d="m 17.695965,103.58769 14.1,18.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW45" d="m 31.795965,121.98769 -1,-21.9" class="bjsLogoWireframe" />
-    <path id="bjsLogoW46" d="m 13.595965,70.18769 4.1,33.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW47" d="m 34.895965,93.38769 17,-31.1" class="bjsLogoWireframe" />
-    <path id="bjsLogoW48" d="m 37.695965,117.68769 19.6,23 -19,-9.9" class="bjsLogoWireframe" />
-    <path id="bjsLogoW49" d="m 38.295965,130.78769 -0.6,-13.1" class="bjsLogoWireframe" />
-    <path id="bjsLogoW50" d="m 144.59596,107.88769 -2.3,14.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW51" d="m 57.295965,140.68769 87.299995,-32.8" class="bjsLogoWireframe" />
-    <path id="bjsLogoW52" d="m 38.295965,130.78769 20.3,25.4" class="bjsLogoWireframe" />
-    <path id="bjsLogoW53" d="m 58.595965,156.18769 -1.3,-15.5 84.999995,-18.4 -83.699995,33.9" class="bjsLogoWireframe" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" id="bjsLogo" width="160" height="160">
+    <metadata id="metadata60">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs58" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 61.995965,34.18769 21.3,15.9" id="bjsLogoW2" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 100.09597,25.68769 -38.100005,8.5" id="bjsLogoW3" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 100.09597,25.68769 28.49999,15.9" id="bjsLogoW4" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 128.59596,41.58769 -45.299995,8.5" id="bjsLogoW5" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 83.295965,50.08769 16.800005,-24.4" id="bjsLogoW6" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 83.295965,50.08769 0.2,48.5" id="bjsLogoW7" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 83.495965,98.58769 40.700005,-13.5" id="bjsLogoW8" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 128.59596,41.58769 -4.39999,43.5" id="bjsLogoW9" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 83.295965,50.08769 40.900005,35" id="bjsLogoW10" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 137.29596,41.38769 16.9,-4.4" id="bjsLogoW11" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 154.19596,36.98769 -8.6,64.1" id="bjsLogoW12" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 131.59596,90.98769 -54.099995,18.5" id="bjsLogoW13" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 145.59596,101.08769 -14,-10.1" id="bjsLogoW14" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 137.29596,41.38769 -5.7,49.6" id="bjsLogoW15" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 77.495965,109.48769 -16.5,23.4" id="bjsLogoW16" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 57.995965,62.88769 19.5,46.6" id="bjsLogoW17" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 131.59596,90.98769 22.6,-54" id="bjsLogoW18" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 57.995965,62.88769 19.5,-5.5" id="bjsLogoW19" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 77.495965,109.48769 68.099995,-8.4" id="bjsLogoW20" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 60.995965,132.88769 84.599995,-31.8" id="bjsLogoW21" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 57.995965,62.88769 3,70" id="bjsLogoW22" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 77.495965,57.38769 0,52.1" id="bjsLogoW23" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 34.895965,39.18769 18.4,-3.9" id="bjsLogoW24" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 55.395965,57.28769 -2.1,-22" id="bjsLogoW25" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 34.895965,39.18769 20.5,18.1" id="bjsLogoW26" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 55.395965,57.28769 20,-5.6" id="bjsLogoW27" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 75.395965,51.68769 -22.1,-16.4" id="bjsLogoW28" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 26.895965,15.88769 19.8,14.6" id="bjsLogoW30" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 24.395965,35.48769 3.6,41.3" id="bjsLogoW33" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 27.995965,76.78769 -15.9,-17.5" id="bjsLogoW34" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 31.595965,44.38769 3.3,49" id="bjsLogoW35" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 51.895965,62.28769 2.6,66" id="bjsLogoW36" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 54.495965,128.28769 -19.6,-34.9" id="bjsLogoW37" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 34.895965,93.38769 -4.1,6.7" id="bjsLogoW38" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 30.795965,100.08769 -17.2,-29.9" id="bjsLogoW39" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 13.595965,70.18769 21.3,23.2" id="bjsLogoW40" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 31.595965,44.38769 20.3,17.9" id="bjsLogoW41" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 54.495965,128.28769 -23.7,-28.2" id="bjsLogoW42" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 17.695965,103.58769 13.1,-3.5" id="bjsLogoW43" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 17.695965,103.58769 14.1,18.4" id="bjsLogoW44" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 31.795965,121.98769 -1,-21.9" id="bjsLogoW45" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 13.595965,70.18769 4.1,33.4" id="bjsLogoW46" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 34.895965,93.38769 17,-31.1" id="bjsLogoW47" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 37.695965,117.68769 19.6,23 -19,-9.9" id="bjsLogoW48" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 38.295965,130.78769 -0.6,-13.1" id="bjsLogoW49" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 144.59596,107.88769 -2.3,14.4" id="bjsLogoW50" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 57.295965,140.68769 87.299995,-32.8" id="bjsLogoW51" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 38.295965,130.78769 20.3,25.4" id="bjsLogoW52" />
+    <path style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" d="m 58.595965,156.18769 -1.3,-15.5 84.999995,-18.4 -83.699995,33.9" id="bjsLogoW53" />
+    <path id="path4194" d="m 93.495965,2.88769 57.399995,28.7" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path id="path4196" d="m 133.29596,36.18769 17.6,-4.6" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path id="path4198" d="m 100.69597,18.88769 -7.200005,-16" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path id="path4200" d="m 133.29596,36.18769 -32.59999,-17.3" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path id="path4204" d="m 34.695965,14.08769 58.8,-11.2" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path id="path4206" d="m 34.695965,14.08769 19.9,14.7" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path id="path4222" d="m 100.69597,18.88769 -66.000005,-4.8" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path id="path4224" d="m 54.595965,28.78769 46.100005,-9.9" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path id="path4226" d="m 24.395965,35.48769 22.3,-5" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" />
+    <path id="path4233" d="m 26.895965,15.88769 -2.5,19.6" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path id="path4235" d="m 6.695965,19.18769 20.2,-3.3" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" />
+    <path id="path4242" d="m 24.395965,35.48769 -17.7,-16.3" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path id="path4244" d="m 6.695965,19.18769 5.4,40.1" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" />
+    <path id="path4251" d="m 24.395965,35.48769 -12.3,23.8" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
 </svg>
