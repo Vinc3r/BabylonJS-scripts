@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+<head>
+    <title>custom loading screen for svg testing</title>
+	<meta charset="UTF-8">
+    <script src="http://preview.babylonjs.com/babylon.js"></script>
+    <script src="http://preview.babylonjs.com/loaders/babylonjs.loaders.js"></script>
+    <style>
+        html, body {
+            background-color: black;
+            color: white;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #canvas {
+            width: 100%;
+            height: 100%;
+            touch-action: none;
+        }
+        #loadingScreen{
+            width: 100%;
+            height: 100%;
+            position:absolute;
+            text-align:center;
+            background-color: black;
+        }
+        #loadingScreen .content{
+            margin-top:40vh;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="loadingScreen">oh yeah</div>
+    <canvas id="canvas"></canvas>
+    <script type="text/javascript">
+        var canvas = document.getElementById("canvas");
+        var engine = new BABYLON.Engine(canvas, true);
+        
+        var loadedPercent = 0;
+        var loadingScreenDiv = window.document.getElementById("loadingScreen");
+        var loadingScreenShowTimer = undefined;
+        
+        loadingScreenDiv.innerHTML = "prout"
+        
+        function MyLoadingScreen(text) {
+            this.loadingUIText = text;
+        }
+        MyLoadingScreen.prototype.displayLoadingUI = function() {
+           loadingScreenShowTimer = window.setInterval(function(){
+           console.log("yes");
+            //loadingScreenDiv.innerHTML = " -- "+loadedPercent;
+           }, 50);
+        };
+        MyLoadingScreen.prototype.hideLoadingUI = function() {
+            loadingScreenDiv.style.opacity = 1;
+            var loadingScreenHideTimer = window.setInterval(hideLoadingScreen, 50);
+            function hideLoadingScreen(){
+                if(loadingScreenDiv.style.opacity > 0){
+                    loadingScreenDiv.style.opacity -= 0.05;
+                }
+                if(loadingScreenDiv.style.opacity <= 0){
+                    clearInterval(loadingScreenHideTimer);
+                    clearInterval(loadingScreenShowTimer);
+                    loadingScreenDiv.style.opacity = 0;
+                    loadingScreenDiv.style.display = "none";
+                }
+            }
+        };        
+        
+        var loadingScreen = new MyLoadingScreen("I'm loading!!");
+        //Set the loading screen in the engine to replace the default one
+        engine.loadingScreen = loadingScreen;
+        
+        var createScene = function () {
+
+            // scene parameters
+            var scene = new BABYLON.Scene(engine);
+            scene.clearColor = new BABYLON.Color3.Gray();
+            scene.ambientColor = new BABYLON.Color3.White();
+            
+            // Add a camera to the scene and attach it to the canvas
+            var arcRotateCamera = new BABYLON.ArcRotateCamera("camera", -1, 1.25, 4, new BABYLON.Vector3.Zero(), scene);
+            arcRotateCamera.wheelPrecision = 50;
+            arcRotateCamera.attachControl(canvas);
+            
+            var light = new BABYLON.DirectionalLight("dirLight", new BABYLON.Vector3(0.1, -1, 0.1), scene);
+            light.diffuse = new BABYLON.Color3(1, 0.2, 0.3);
+            
+            var skullLoaded = function(newMeshes){
+                newMeshes[0].position = new BABYLON.Vector3(0,0,0);
+                newMeshes[0].scalingDeterminant = 0.02;
+                newMeshes[0].material = new BABYLON.StandardMaterial("skull", scene);
+            }
+            
+            var skullLoader = BABYLON.SceneLoader.ImportMesh("", "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/scenes/", "skull.babylon", scene, skullLoaded, function (evt){
+                if (evt.lengthComputable){
+                    loadedPercent = (evt.loaded * 100 / evt.total).toFixed();
+                }
+                else{
+                    var dlCount = evt.loaded / (1024 * 1024);
+                    loadedPercent = Math.floor(dlCount * 100.0) / 100.0;
+                }
+            });
+            
+            return scene;
+        };
+        
+        var scene = createScene();
+        
+        engine.runRenderLoop(function () { // Register a render loop to repeatedly render the scene
+            scene.render();
+        });
+                
+        window.addEventListener("resize", function () { // Watch for browser/canvas resize events
+            engine.resize();
+        });
+    </script>
+</body>
+</html>
